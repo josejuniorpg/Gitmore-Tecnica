@@ -47,9 +47,19 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "custom_liquid_VMKTaG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h1>Heloo </h1>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "image_banner"
+    "image_banner",
+    "custom_liquid_VMKTaG"
   ]
 }
