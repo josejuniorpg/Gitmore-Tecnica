@@ -169,7 +169,9 @@
     },
     "testing_section": {
       "type": "testing",
-      "settings": {}
+      "settings": {
+        "title": "Ahora esto cambia."
+      }
     }
   },
   "order": [
