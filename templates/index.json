@@ -170,17 +170,31 @@
     "testing_section": {
       "type": "testing",
       "blocks": {
-        "text_AMQg7n": {
-          "type": "text",
+        "slide_NajhxK": {
+          "type": "slide",
           "settings": {
             "slide_image1": "shopify://shop_images/Screen_burn_screen_off.png",
             "slide_image2": "shopify://shop_images/estructura-etiquetas-html5-1.png",
-            "title2": "Tesxto Defecto 2"
+            "title2": "Texto por defecto 2"
+          }
+        },
+        "slide_d8DCX6": {
+          "type": "slide",
+          "settings": {
+            "title2": "Texto por defecto 2"
+          }
+        },
+        "slide_m9yR7n": {
+          "type": "slide",
+          "settings": {
+            "title2": "Texto por defecto 2"
           }
         }
       },
       "block_order": [
-        "text_AMQg7n"
+        "slide_NajhxK",
+        "slide_d8DCX6",
+        "slide_m9yR7n"
       ],
       "settings": {
         "title": "Ahora esto cambia.",
