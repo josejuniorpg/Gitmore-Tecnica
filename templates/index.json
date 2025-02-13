@@ -181,7 +181,8 @@
         "slide_d8DCX6": {
           "type": "slide",
           "settings": {
-            "title2": "Texto por defecto 2"
+            "slide_image1": "shopify://shop_images/estructura-etiquetas-html5-1.png",
+            "title2": "Texto por defecto 3"
           }
         },
         "slide_m9yR7n": {
