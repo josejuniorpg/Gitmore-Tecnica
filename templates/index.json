@@ -169,8 +169,22 @@
     },
     "testing_section": {
       "type": "testing",
+      "blocks": {
+        "text_AMQg7n": {
+          "type": "text",
+          "settings": {
+            "slide_image1": "shopify://shop_images/Screen_burn_screen_off.png",
+            "slide_image2": "shopify://shop_images/estructura-etiquetas-html5-1.png",
+            "title2": "Tesxto Defecto 2"
+          }
+        }
+      },
+      "block_order": [
+        "text_AMQg7n"
+      ],
       "settings": {
-        "title": "Ahora esto cambia."
+        "title": "Ahora esto cambia.",
+        "title2": "Texto por defecto 2"
       }
     }
   },
